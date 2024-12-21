@@ -7,6 +7,7 @@ Here is my Chatbot Screenshot:
 ![Tsion's Screenshot](./images/tsion-screenshot.png)
 
 
+
 #### What Went Well:
 
 I was able to get the chatbot started! That was a feat on its own, so the fact that it started and ran at all is one thing that went well.
